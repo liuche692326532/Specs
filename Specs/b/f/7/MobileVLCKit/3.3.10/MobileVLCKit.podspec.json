@@ -59,7 +59,7 @@
     "Benjamin Adolphi": "b.adolphi@gmail.com"
   },
   "source": {
-    "http": "https://download.videolan.org/pub/cocoapods/prod/MobileVLCKit-3.3.10-1447ac9-e425b28e36.tar.xz",
+    "http": "http://127.0.0.1:8000/MobileVLCKit-3.3.10-1447ac9-e425b28e36.tar.xz",
     "sha256": "766fb2a151d4cd9ff8dce2ab2e599a96166b8684a7d7a7ada6e383562b496e9a"
   },
   "ios": {
